@@ -1,0 +1,4 @@
+apps:
+  - script   : '/opt/assistant-plugins/index.js'
+    name     : 'Assistant-Plugins'
+    kill_timeout  : 5000
